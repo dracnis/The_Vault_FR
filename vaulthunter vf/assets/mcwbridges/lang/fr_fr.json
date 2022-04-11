@@ -1,0 +1,98 @@
+{
+  "itemGroup.bridges": "Les ponts de Macaw",
+
+  "block.mcwbridges.most1":"Pont de Fer",
+
+  "item.mcwbridges.pliers":"Pinces",
+  "mcwbridges.pliers.desc":"Cliquez avec le bouton droit sur un pont pour le changer en pièce d'extrémité, ne fonctionne que pour les ponts de 2 ou plus de largeur",
+
+  "block.mcwbridges.oak_log_bridge_middle":"Pont de chêne",
+  "block.mcwbridges.birch_log_bridge_middle":"Pont de bouleau",
+  "block.mcwbridges.acacia_log_bridge_middle":"Pont d'Acacia",
+  "block.mcwbridges.spruce_log_bridge_middle":"Pont en sapin",
+  "block.mcwbridges.jungle_log_bridge_middle":"Pont d'acajou",
+  "block.mcwbridges.dark_oak_log_bridge_middle":"Pont en chêne noir",
+  "block.mcwbridges.crimson_log_bridge_middle":"Pont carmin",
+  "block.mcwbridges.warped_log_bridge_middle":"Pont biscornu",
+
+  "block.mcwbridges.rope_oak_bridge":"Pont de corde en chêne",
+  "block.mcwbridges.rope_birch_bridge":"Pont de corde en bouleau",
+  "block.mcwbridges.rope_spruce_bridge":"Pont de corde en sapin",
+  "block.mcwbridges.rope_jungle_bridge":"Pont de corde d'acajou",
+  "block.mcwbridges.rope_acacia_bridge":"Pont en corde d'acacia",
+  "block.mcwbridges.rope_dark_oak_bridge":"Pont en corde en chêne noir",
+  "block.mcwbridges.rope_crimson_bridge":"Pont de corde carmin",
+  "block.mcwbridges.rope_warped_bridge":"Pont de corde biscornu",
+
+  "block.mcwbridges.brick_bridge":"Pont de briques",
+  "block.mcwbridges.stone_brick_bridge":"Pont en briques de pierre",
+  "block.mcwbridges.mossy_stone_brick_bridge":"Pont de briques en pierre moussue",
+  "block.mcwbridges.sandstone_bridge":"Pont de grès",
+  "block.mcwbridges.orange_sandstone_bridge":"Pont de grès rouge",
+  
+  "block.mcwbridges.blackstone_bridge":"Pont de Blackstone",
+  
+  "block.mcwbridges.oak_rail_bridge":"Pont ferroviaire de chêne",
+  "block.mcwbridges.spruce_rail_bridge":"Pont ferroviaire en sapin",
+  "block.mcwbridges.birch_rail_bridge":"Pont ferroviaire en bouleau",
+  "block.mcwbridges.jungle_rail_bridge":"Pont ferroviaire d'acajou",
+  "block.mcwbridges.acacia_rail_bridge":"Pont ferroviaire d'Acacia",
+  "block.mcwbridges.dark_oak_rail_bridge":"Pont ferroviaire en chêne noir",
+  "block.mcwbridges.crimson_rail_bridge":"Pont ferroviaire carmin",
+  "block.mcwbridges.warped_rail_bridge":"Pont ferroviaire biscornu",
+
+  "block.mcwbridges.dry_bamboo_bridge":"Pont en bambou sec",
+  "block.mcwbridges.bamboo_bridge":"Pont en bambou",
+
+  "block.mcwbridges.iron_bridge_pier":"Support de pont en fer",
+
+  "block.mcwbridges.oak_bridge_pier":"Support de pont en chêne",
+  "block.mcwbridges.spruce_bridge_pier":"Support de pont en sapin",
+  "block.mcwbridges.birch_bridge_pier":"Support de pont en bouleau",
+  "block.mcwbridges.jungle_bridge_pier":"Soutien du pont d'acajou",
+  "block.mcwbridges.acacia_bridge_pier":"Support de pont en acacia",
+  "block.mcwbridges.dark_oak_bridge_pier":"Support de pont en chêne noir",
+  "block.mcwbridges.crimson_bridge_pier":"Soutien du pont carmin",
+  "block.mcwbridges.warped_bridge_pier":"Support de pont biscornu",
+
+  "block.mcwbridges.brick_bridge_pier":"Support de pont en brique",
+  "block.mcwbridges.sandstone_bridge_pier":"Support de pont en grès",
+  "block.mcwbridges.stone_bridge_pier":"Support de pont de pierre",
+  "block.mcwbridges.red_sandstone_bridge_pier":"Soutien de pont en grès rouge",
+  "block.mcwbridges.blackstone_bridge_pier":"Soutien du pont Blackstone",
+  "block.mcwbridges.mossy_stone_bridge_pier":"Soutien de pont en pierre moussu",
+
+  "block.mcwbridges.bamboo_bridge_pier":"Support de pont en bambou",
+  "block.mcwbridges.dry_bamboo_bridge_pier":"Support de pont en bambou sec",
+
+  "block.mcwbridges.iron_bridge_stair":"Escalier de pont en fer",
+
+  "block.mcwbridges.oak_log_bridge_stair":"Escalier de pont en chêne",
+  "block.mcwbridges.spruce_log_bridge_stair":"Escalier de pont en sapin",
+  "block.mcwbridges.birch_log_bridge_stair":"Escalier de pont en bouleau",
+  "block.mcwbridges.jungle_log_bridge_stair":"Escalier de pont en acajou",
+  "block.mcwbridges.acacia_log_bridge_stair":"Escalier de pont en acacia",
+  "block.mcwbridges.dark_oak_log_bridge_stair":"Escalier de pont en chêne noir",
+  "block.mcwbridges.crimson_log_bridge_stair":"Escalier de pont carmin",
+  "block.mcwbridges.warped_log_bridge_stair":"Escalier de pont biscornu",
+
+  "block.mcwbridges.oak_rope_bridge_stair":"Escalier de pont en corde de chêne",
+  "block.mcwbridges.spruce_rope_bridge_stair":"Escalier de pont en corde de sapin",
+  "block.mcwbridges.birch_rope_bridge_stair":"Escalier de pont en corde de bouleau",
+  "block.mcwbridges.jungle_rope_bridge_stair":"Escalier de pont de corde d'acajou",
+  "block.mcwbridges.acacia_rope_bridge_stair":"Escalier de pont de corde d'acacia",
+  "block.mcwbridges.dark_oak_rope_bridge_stair":"Escalier de pont de corde de chêne noir",
+  "block.mcwbridges.crimson_rope_bridge_stair":"Escalier de pont de corde carmin",
+  "block.mcwbridges.warped_rope_bridge_stair":"Escalier de pont de corde biscornu",
+
+  "block.mcwbridges.stone_brick_bridge_stair":"Escalier de pont en brique de pierre",
+  "block.mcwbridges.sandstone_bridge_stair": "Escalier de pont de grès",
+"block.mcwbridges.brick_bridge_stair":"Escalier de pont en briques",
+  "block.mcwbridges.red_sandstone_bridge_stair":"Escalier de pont en grès rouge",
+  "block.mcwbridges.blackstone_bridge_stair":"Escalier de pont de Blackstone",
+ "block.mcwbridges.mossy_stone_bridge_stair":"Escalier de pont de pierre moussu",
+
+"block.mcwbridges.bamboo_bridge_stair":"Escalier de pont en bambou",
+"block.mcwbridges.dry_bamboo_bridge_stair":"Escalier de pont en bambou sec"                  
+	}
+	
